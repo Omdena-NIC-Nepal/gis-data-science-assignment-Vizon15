@@ -1,0 +1,11 @@
+pandas
+geopandas
+folium
+matplotlib
+numpy
+shapely
+rasterio
+contextily
+rasterstats
+descartes
+seaborn
